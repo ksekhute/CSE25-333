@@ -1,6 +1,6 @@
 nav {
   display: flex;
-  justify-content: flex-end; /* pushes everything to the right */
+  justify-content: flex-end;
   background-color: #200;
   padding: 1rem;
 }
