@@ -1,1 +1,104 @@
+<link rel="stylesheet" href="styles.css">
+<header>
+<nav class="navbar navbar-expand-ig navbar-dark bg-dark">
+	<div class="container">
+		<a class="navbar-brand" href="index.html">My Website</a>
+		<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav
+			<span class="navbar-toggler-icon"></pan>
+		</button>
+		<div class="collapse navbar-collapse" id="navbarNav">
+			<ul class="navbar-nav">
+				li class="navbar-nav">
+					<a class="nav-link" href="index.html">Home</a>
+
+				</li>
+				<li class="nav-link" href=about.html">About</a>
+
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="contact.html">Contact</a>
+
+					</li>
+				</ul>
+			</div>
+		</div>
+</nav>
+</header>
+
+
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+    background-color: #f9f9f9;
+    margin:0;
+    padding:0;
+    line-height:1.6;
+}
+
+  header {
+      background-color: #4CAF50;
+      color: white;
+      padding: 20px; 
+      text-align: center;
+}
+
+  header h1{
+    margin: 0;
+}
+
+nav a {
+    color:white;
+    text-decoration:none;
+    margin: 0 10px;
+}
+
+nav a: hover {
+    text-decoration: underline;
+}
+  padding: 20px;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+main img {
+    max-width: 100%;
+    height:auto;
+    display:block;
+    margin:20px 0;
+}
+
+footer {
+
+  background-color: #333;
+  color: white;
+  text-align:center;
+  padding:10px;
+  position: fixed;
+  bottom: 0;
+  width:100%;
+  
+}
+
+p{
+    font-size: 1.1em;
+}
+
+a{
+    color:#4CAF50;
+    text-decoration:none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+img:{
+    border: 5px solid #4CAF50;
+    border-radius: 10px;
+}
+
+main a{href^="mailto:"}
+    color: #ff5722;
+    font-weight: bold;
+}
 
