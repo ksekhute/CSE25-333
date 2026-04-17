@@ -40,9 +40,11 @@ body {
   color: #111;
 }
 
+    <style>
 .box {
       background-color:black;
       height: 100vh;
       background-position: center;
       bacground-size: cover;
 }
+    </style>
