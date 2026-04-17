@@ -39,3 +39,10 @@ main h1, .intro-heading {
 body {
   color: #111;
 }
+
+.box {
+      background-color:black;
+      height: 100vh;
+      background-position: center;
+      bacground-size: cover;
+}
